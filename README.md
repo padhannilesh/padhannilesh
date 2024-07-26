@@ -9,9 +9,9 @@
 
 - 🔭 I’m currently working on **MERN Stack project**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Backend**
 
-- 💬 Ask me about **HTML, CSS, JavaScript**
+- 💬 Ask me about **HTML, CSS, JavaScript,React**
 
 - 📫 How to reach me **padhannilesh5@gmail.com**
 
