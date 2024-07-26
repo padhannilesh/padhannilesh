@@ -70,10 +70,10 @@
   <a href="https://powerapps.microsoft.com/" target="_blank" rel="noreferrer">
     <img src="https://img.icons8.com/?size=100&id=jXuZmZPUKCPS&format=png&color=000000" alt="powerapps" width="40" height="40"/> 
   </a>
-  <a href="https://flow.microsoft.com/" target="_blank" rel="noreferrer">
+  <a href="[https://flow.microsoft.com/](https://www.microsoft.com/en-us/power-platform/products/power-automate)" target="_blank" rel="noreferrer">
     <img src="https://img.icons8.com/?size=100&id=kTTt25v6Drpd&format=png&color=000000" alt="powerautomate" width="40" height="40"/> 
   </a>
-  <a href="https://powerapps.microsoft.com/en-us/dataverse/" target="_blank" rel="noreferrer">
+  <a href="[https://powerapps.microsoft.com/en-us/dataverse/](https://learn.microsoft.com/en-us/power-apps/maker/data-platform/data-platform-intro)" target="_blank" rel="noreferrer">
     <img src="https://www.avantiico.com/wp-content/uploads/2021/12/Dataverse_1600x1600.png" alt="dataverse" width="40" height="40"/> 
   </a>
 </p>
